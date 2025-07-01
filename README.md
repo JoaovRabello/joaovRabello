@@ -46,6 +46,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joaovrabello/joaovrabello/output/snake.svg" alt="Snake animation" />
-
 ###
